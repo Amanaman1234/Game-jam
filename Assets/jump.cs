@@ -10,8 +10,7 @@ public class jump : MonoBehaviour
 
     public Rigidbody2D myRigidbody;
 
-    public float links = 3;
-    public float rechts = 3;
+    public float speed = 3;
 
     [SerializeField] private Transform groundcheck;
     [SerializeField] private LayerMask groundLayer;
@@ -36,11 +35,11 @@ public class jump : MonoBehaviour
         }
         if (Input.GetKey("a"))
         {
-            transform.Translate(-Vector3.right * links * Time.deltaTime);
+            transform.Translate(-Vector3.right * speed * Time.deltaTime);
         }
         if (Input.GetKey("d"))
         {
-            transform.Translate(Vector3.right * rechts * Time.deltaTime);
+            transform.Translate(Vector3.right * speed * Time.deltaTime);
         }
         flip();
 
