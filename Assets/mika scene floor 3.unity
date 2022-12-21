@@ -250,7 +250,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 6.37, y: 6.32}
   m_EdgeRadius: 0
 --- !u!253 &645200571
 BuoyancyEffector2D:
@@ -438,7 +438,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 6.42, y: 6.47}
   m_EdgeRadius: 0
 --- !u!253 &1095704587
 BuoyancyEffector2D:
