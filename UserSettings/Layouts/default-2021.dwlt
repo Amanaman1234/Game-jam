@@ -49,13 +49,19 @@ MonoBehaviour:
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   controlID: 48
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
   controlID: 15
 =======
   controlID: 48
 >>>>>>> mika
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 --- !u!114 &3
 MonoBehaviour:
@@ -232,13 +238,19 @@ MonoBehaviour:
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   controlID: 49
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
   controlID: 16
 =======
   controlID: 49
 >>>>>>> mika
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 --- !u!114 &10
 MonoBehaviour:
@@ -265,13 +277,19 @@ MonoBehaviour:
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   controlID: 50
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
   controlID: 17
 =======
   controlID: 50
 >>>>>>> mika
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 --- !u!114 &11
 MonoBehaviour:
@@ -350,11 +368,14 @@ MonoBehaviour:
   - Assets
   m_LastFoldersGridSize: -1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_LastProjectPath: C:\Users\skeppo\Game-jam
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
   m_LastProjectPath: C:\Users\vish_\code\Game-jam
   m_LockTracker:
@@ -369,12 +390,19 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     scrollPos: {x: 0, y: 79}
     m_SelectedIDs: 18920000
     m_LastClickedID: 37400
     m_ExpandedIDs: 000000001892000000ca9a3bffffff7f
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> mika
+>>>>>>> Stashed changes
 =======
 >>>>>>> mika
 >>>>>>> Stashed changes
@@ -406,13 +434,19 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     m_ExpandedIDs: 
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
     m_ExpandedIDs: 000000000e600000
 =======
     m_ExpandedIDs: 
 >>>>>>> mika
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -441,9 +475,12 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000548e00004aab0000aaac000000000000
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
@@ -451,6 +488,9 @@ MonoBehaviour:
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000548e00004aab0000aaac000000000000
 >>>>>>> mika
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -554,13 +594,19 @@ MonoBehaviour:
       m_SelectedIDs: 
       m_LastClickedID: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       m_ExpandedIDs: 0e96ffff1096fffff296ffff0497ffff6697ffff5698ffffea98ffffa0a3ffff34a4ffff86b0ffff84b3ffff10b5ffff6cb5fffff8b5ffff4eb6ffff9eb6ffffeeb6ffff44b7ffff28b9ffffbebaffffb6c2ffff0ac3ffff5ec3ffffc0c3ffff10c4ffff60c4ffff68c5ffff
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
       m_ExpandedIDs: 2cfbffff
 =======
       m_ExpandedIDs: 0e96ffff1096fffff296ffff0497ffff6697ffff5698ffffea98ffffa0a3ffff34a4ffff86b0ffff84b3ffff10b5ffff6cb5fffff8b5ffff4eb6ffff9eb6ffffeeb6ffff44b7ffff28b9ffffbebaffffb6c2ffff0ac3ffff5ec3ffffc0c3ffff10c4ffff60c4ffff68c5ffff
 >>>>>>> mika
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -866,10 +912,13 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     m_Target: {x: 3.098628, y: 4.1126685, z: 0.061889946}
     speed: 2
     m_Value: {x: 3.098628, y: 4.1126685, z: 0.061889946}
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
     m_Target: {x: 6.360181, y: -1.2575761, z: 0.4640617}
     speed: 2
@@ -879,6 +928,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 3.098628, y: 4.1126685, z: 0.061889946}
 >>>>>>> mika
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   m_RenderMode: 0
   m_CameraMode:
@@ -931,10 +983,13 @@ MonoBehaviour:
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     m_Target: 2.6131818
     speed: 2
     m_Value: 2.6131818
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
     m_Target: 10.30476
     speed: 2
@@ -944,6 +999,9 @@ MonoBehaviour:
     speed: 2
     m_Value: 2.6131818
 >>>>>>> mika
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   m_Ortho:
     m_Target: 1
